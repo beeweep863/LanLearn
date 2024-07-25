@@ -1,13 +1,8 @@
 {
   "expo": {
-    "scheme": "acme",
-    "web": {
-      "bundler": "metro"
-    },
-    "plugins": [
-      "expo-router"
-    ],
-    "name": "LanLearn",
-    "slug": "LanLearn"
-  }
+    "name": "mi-nueva-app",
+    "slug": "mi-nueva-app",
+    "version": "1.0.0"
+  },
+  "name": "mi-nueva-app"
 }
